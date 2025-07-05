@@ -9,5 +9,4 @@ int main() {
 
     cout << fixed << setprecision(10) << x << endl;
 
-    return 0;
 }

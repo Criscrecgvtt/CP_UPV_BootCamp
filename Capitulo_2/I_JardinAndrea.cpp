@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-int w,d;
+long long w,d;
 cin>>w>>d;
 cout <<pow(w,d)<<endl;
 }
